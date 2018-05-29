@@ -41,7 +41,7 @@ $randomString .= $characters[rand(0, $charactersLength - 1)];
 return $randomString;   
 }
 public function Verif() {
-$url="https://www.grab.com/signup";
+$url="https://www.grab.com/id/driver/";
 $no=$this->no;
 $getkey=$this->sendC("https://www.grab.com/id/driver/", null, null);
 $key=$this->getStr('name="_csrf" value="','" />',$getkey);
@@ -61,22 +61,18 @@ sleep(1);
 }    
 }
 system("clear");
-echo "\n\e[93m _   _
-| | | | __ _  ___
-| |_| |/ _` |/ __|
-|  _  | (_| | (__
-|_| |_|\__,_|\___|
+echo "\n\e[93m 
 \e[36m===========\e[91m>>>>>>>>>>\n\e[36mAuthor  : Nazir Bachrul Ulum
-Recode  : SPAMSMS
+Recode  : GrabSpammer
 Code    : PHP
 Github  : http://github.com/Nazirr/SPAMSMS
 Team    : TERMUX INDONESIA
-Version : 2.0 ( Alpha )
+Version : 3.3
 Date    : 9-01-2018
 \e[36m===========\e[91m>>>>>>>>>>";
 echo "\n\e[36mTarget  : ";
 $target=trim(fgets(STDIN, 1024));
-echo "Count   : ";
+echo "Jumlah Pesan   : ";
 $jumlah=trim(fgets(STDIN, 1024));
 $init=new Bom();
 $init->no="$target";
