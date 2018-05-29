@@ -84,4 +84,4 @@ $loop="$jumlah";
 for($i=0; $i < $loop; $i++) { 
 $init->Verif($init->no);
 }
-?
+
