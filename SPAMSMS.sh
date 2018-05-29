@@ -4,9 +4,9 @@ toilet -f slant --gay "SPAMSMS"
 sleep 1
 echo "\033[31;1m Macam-macam tool untuk spam"
 sleep 1
-echo "\033[33;1m Author: Mr.Nazir Eaa"
+echo "\033[33;1m Author: Mr.Nazir Bachrul Ulum Eaa"
 sleep 1
-echo "\033[32;1m ★contack: +15877711462"
+echo "\033[32;1m ★Contact: +17155757348"
 sleep 1
 echo "\033[34;1m ★TERMUX INDONESIA"
 sleep 1
