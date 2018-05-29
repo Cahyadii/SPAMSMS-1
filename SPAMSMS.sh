@@ -18,6 +18,7 @@ echo "4. PHD"
 echo "5. Jd.Id"
 echo "6. Email Bomber"
 echo "7. Hooq"
+echo "8. Grab
 echo "0. Keluar"
 echo "\033[30;1m81. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
@@ -82,6 +83,15 @@ clear
 toilet -f standard -F gay "Hooq"
 echo "\033[36;1m"
 php 7.php
+fi
+
+if
+[ $mrrm = 8 ] || [ $mrrm = 8 ]
+then
+clear
+toilet -f standard -F gay "GRAB"
+echo "\033[36;1m"
+php 8.php
 fi
 
 if
