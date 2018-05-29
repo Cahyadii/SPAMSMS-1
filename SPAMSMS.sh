@@ -18,7 +18,7 @@ echo "4. PHD"
 echo "5. Jd.Id"
 echo "6. Email Bomber"
 echo "7. Hooq"
-echo "8. Grab
+echo "8. Grab"
 echo "0. Keluar"
 echo "\033[30;1m81. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
