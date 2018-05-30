@@ -1,2 +1,2 @@
-# LITESPAM
+# PREMIUMSPAM
 Ciptaan Nazir Bachrul Ulum
