@@ -89,8 +89,9 @@ if
 [ $mrrm = 8 ] || [ $mrrm = 8 ]
 then
 clear
-toilet -f standard -F gay "GRAB"
+
 echo "\033[36;1m"
+figlet "GRAB"
 php 8.php
 fi
 
