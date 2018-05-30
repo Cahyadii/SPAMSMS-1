@@ -61,15 +61,15 @@ sleep(1);
 }    
 }
 system("clear");
-echo "\n\e[93m 
-\e[36m===========\e[91m>>>>>>>>>>\n\e[36mAuthor  : Nazir Bachrul Ulum
-Recode  : GrabSpammer
-Code    : PHP
-Github  : http://github.com/Nazirr/SPAMSMS
-Team    : TERMUX INDONESIA
-Version : 3.3
-Date    : 9-01-2018
-\e[36m===========\e[91m>>>>>>>>>>";
+
+
+
+
+
+
+
+
+
 echo "\n\e[36mTarget  : ";
 $target=trim(fgets(STDIN, 1024));
 echo "Jumlah Pesan   : ";
