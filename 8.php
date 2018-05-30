@@ -60,7 +60,7 @@ sleep(1);
 }
 }    
 }
-system("clear");
+
 
 
 
